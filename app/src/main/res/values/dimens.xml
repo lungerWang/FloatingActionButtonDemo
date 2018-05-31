@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--修改圆形按钮大小的位置-->
+    <dimen name="fab_size_normal">49dp</dimen>
+    <dimen name="fab_size_mini">35dp</dimen>
+    <dimen name="labels_text_size">14sp</dimen>
+
+</resources>
